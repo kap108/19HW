@@ -26,30 +26,27 @@ Ethereum keys are the same format on any network, so the Ethereum keys should wo
 
 ### Project setup
 
-  ![](https://github.com/kap108/19HW/blob/main/images/19HW.PNG)
+  ![Setup](https://github.com/kap108/19HW/blob/main/images/19HW.PNG)
 
-      ```
+### My directory tree:
 
-
-- My directory tree:
-
-  ![](images/btc.png)
-  ![](images/eth.png)
+  ![BTC](https://github.com/kap108/19HW/blob/main/images/btc.PNG)
+  ![ETH](https://github.com/kap108/19HW/blob/main/images/eth.PNG)
 
 ### Setup constants
 
-![](images/constants.png)
+![Constants](https://github.com/kap108/19HW/blob/main/images/constants.PNG)
 
 ### Generate a Mnemonic
-![](images/mnemonic.png)
+![Mnemonic](https://github.com/kap108/19HW/blob/main/images/mnemonic.PNG)
 
 
 ### Derive the wallet keys
 
-![](images/wallet.png)
+![Wallet](https://github.com/kap108/19HW/blob/main/images/wallet.PNG)
 
 ### Linking the transaction signing libraries
-![Code Screenshot](images/code.png)
+![Code Screenshot](https://github.com/kap108/19HW/blob/main/images/code.PNG)
 
 
 
@@ -57,10 +54,10 @@ Ethereum keys are the same format on any network, so the Ethereum keys should wo
 
   - **Bitcoin Testnet transaction**
 
-      ![btc-test](Images/test-btc.png)
+      ![BTC TestNet](Images/test-btc.png)
 
   - **Local PoA Ethereum transaction**
 
-        ![eth-test](Images/test-eth.png)
+       ![ETH PoA](Images/test-eth.png)
 
 
