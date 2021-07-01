@@ -1,6 +1,5 @@
 # Multi-Blockchain Wallet in Python
-
-![newtons-coin-cradle](Images/newtons-coin-cradle.jpg)
+![](https://github.com/kap108/19HW/blob/main/images/bitcoin.PNG)
 
 ## Background
 
