@@ -53,10 +53,10 @@ Ethereum keys are the same format on any network, so the Ethereum keys should wo
 
   - **Bitcoin Testnet transaction**
 
-      ![BTC TestNet](Images/test-btc.png)
+      ![BTC TestNet](https://github.com/kap108/19HW/blob/main/images/transaction.PNG)
 
   - **Local PoA Ethereum transaction**
 
-       ![ETH PoA](Images/test-eth.png)
+       ![ETH PoA](https://github.com/kap108/19HW/blob/main/images/success.PNG)
 
 
